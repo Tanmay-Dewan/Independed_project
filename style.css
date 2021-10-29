@@ -1,0 +1,17 @@
+.background
+{
+    background-image: url("background.jpg");
+}
+.header
+{
+    font-size: 60px;
+}
+#text_pin{
+    color:deeppink;
+}
+#create_account_button{
+    color: gold;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
